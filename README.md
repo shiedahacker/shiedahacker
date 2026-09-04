@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá! Eu sou o José Italo 👋
 
-<!--
-**shiedahacker/shiedahacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Cibersegurança | Foco em SOC & Blue Team
 
-Here are some ideas to get you started:
+Sou um profissional em transição/desenvolvimento apaixonado por Segurança da Informação, com foco na construção de uma base sólida para atuar como **SOC Analyst I** ou **Analista de Segurança Júnior**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu objetivo é proteger infraestruturas, identificar ameaças e garantir que a segurança apoie os objetivos do negócio (GRC). Atualmente, estou focado em laboratórios práticos e simulações de incidentes.
+
+---
+
+### 🛡️ O que estou estudando e praticando
+- **Segurança Defensiva:** Operações de Blue Team, análise de logs, detecção de ameaças.
+- **GRC (Governança, Risco e Compliance):** Mapeamento de riscos, frameworks de segurança e conformidade corporativa.
+- **Cursos Atuais:** 
+  - *Google Cybersecurity Professional Certificate*
+  - *Cisco Cyber Threats*
+
+---
+
+### 🛠️ Competências em Desenvolvimento
+* **Frameworks & Padrões:** NIST CSF, GDPR, PCI DSS, MITRE ATT&CK.
+* **Conceitos de Defesa:** Controle de Acesso (RBAC, Privilégio Mínimo), Segurança de Endpoints (EDR/AV), Gestão de Identidades (MFA).
+* **Gestão de Riscos:** Auditoria de TI, Disaster Recovery (DRP), Resposta a Incidentes.
+
+---
+
+### 📂 Projetos de Portfólio (Laboratórios & Simulações)
+
+Aqui estão alguns cenários práticos que desenvolvi:
+
+* 🔐 **[Auditoria Interna de TI — Botium Toys](https://github.com/shiedahacker/auditoria-interna-ti-botium-toys)** 
+  * *Descrição:* Simulação de auditoria corporativa mapeada ao NIST CSF. Identificação de vulnerabilidades em ativos, avaliação de conformidade (GDPR/PCI DSS) e proposição de controles de segurança (RBAC, MFA, IDS/IPS, DRP).
+  * *Habilidades demonstradas:* Gestão de Riscos, Compliance, Avaliação de Controles.
+
+*(Mais laboratórios de SOC/SIEM em breve...)*
+
+---
+
+### 📫 Como me encontrar
+- **LinkedIn:** (https://www.linkedin.com/in/jose-italo-1390a9240/)
